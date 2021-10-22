@@ -9,11 +9,15 @@
  - This type of analysis can help you predict the likelihood of an event happening or a choice being made
 
 
-
-
 ## Difference Between Independent and Dependent Variables in Machine Learning
 * Independent variables (also referred to as Features) are the input for a process that is being analyzes. 
 * Dependent variables are the output of the process (0s and 1s)
+* **feature vector** describes dependent values
+
+## Sentiment analysis:
+* Sentiment analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information
+
+![](https://d33wubrfki0l68.cloudfront.net/e57b78e974bc47b52aedaf7e315174968f4c3c36/b6241/static/348bb1d70089176ca2f61ea402094382/50bf7/main.png)
 
 
 
