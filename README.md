@@ -14,6 +14,8 @@
 * Dependent variables are the output of the process (0s and 1s)
 * **feature vector** describes dependent values
 
+![](https://i.stack.imgur.com/jCQ31.png)
+
 ## Sentiment analysis:
 * Sentiment analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information
 
